@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0326-power-of-three) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2525-categorize-box-according-to-criteria](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2525-categorize-box-according-to-criteria) |
 ## Recursion
 |  |
 | ------- |
