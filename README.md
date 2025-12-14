@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1370-increasing-decreasing-string](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1370-increasing-decreasing-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2937-make-three-strings-equal](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2937-make-three-strings-equal) |
 ## Simulation
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/3726-remove-zeros-in-decimal-representation) |
+## Hash Table
+|  |
+| ------- |
+| [1370-increasing-decreasing-string](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1370-increasing-decreasing-string) |
+## Counting
+|  |
+| ------- |
+| [1370-increasing-decreasing-string](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1370-increasing-decreasing-string) |
 <!---LeetCode Topics End-->
