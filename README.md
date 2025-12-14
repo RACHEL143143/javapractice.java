@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2525-categorize-box-according-to-criteria) |
 | [2652-sum-multiples](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2652-sum-multiples) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## Recursion
 |  |
 | ------- |
@@ -74,4 +75,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/3726-remove-zeros-in-decimal-representation) |
 <!---LeetCode Topics End-->
