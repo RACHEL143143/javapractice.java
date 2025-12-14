@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1025-divisor-game) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
