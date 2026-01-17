@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0371-sum-of-two-integers) |
+| [0400-nth-digit](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0509-fibonacci-number) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0400-nth-digit](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->
