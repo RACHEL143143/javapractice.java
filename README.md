@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0343-integer-break) |
 | [0371-sum-of-two-integers](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0371-sum-of-two-integers) |
+| [0509-fibonacci-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1323-maximum-69-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0343-integer-break) |
+| [0509-fibonacci-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1025-divisor-game) |
 ## Brainteaser
 |  |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
