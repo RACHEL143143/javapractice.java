@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0371-sum-of-two-integers) |
 | [0400-nth-digit](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0400-nth-digit](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0400-nth-digit) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
