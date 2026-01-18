@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0179-largest-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1370-increasing-decreasing-string](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1370-increasing-decreasing-string) |
+| [1768-merge-strings-alternately](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2937-make-three-strings-equal](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2937-make-three-strings-equal) |
 ## Simulation
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
