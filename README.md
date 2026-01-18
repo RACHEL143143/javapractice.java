@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0283-move-zeroes) |
 | [0313-super-ugly-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0313-super-ugly-number) |
@@ -57,12 +58,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0179-largest-number) |
 | [1323-maximum-69-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1323-maximum-69-number) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0217-contains-duplicate) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Bit Manipulation
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0179-largest-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1370-increasing-decreasing-string](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1370-increasing-decreasing-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
