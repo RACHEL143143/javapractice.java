@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0168-excel-sheet-column-title) |
 | [0313-super-ugly-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0342-power-of-four) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0058-length-of-last-word) |
+| [0168-excel-sheet-column-title](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0168-excel-sheet-column-title) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1370-increasing-decreasing-string](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1370-increasing-decreasing-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
