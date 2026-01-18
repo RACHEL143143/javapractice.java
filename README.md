@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0283-move-zeroes) |
 | [0313-super-ugly-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0313-super-ugly-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1046-last-stone-weight) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Greedy
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1004-max-consecutive-ones-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
