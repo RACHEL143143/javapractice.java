@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0179-largest-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1370-increasing-decreasing-string](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1370-increasing-decreasing-string) |
 | [1768-merge-strings-alternately](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/2011-final-value-of-variable-after-performing-operations) |
