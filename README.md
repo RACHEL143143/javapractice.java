@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0169-majority-element) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0217-contains-duplicate) |
 | [0819-most-common-word](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0819-most-common-word) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/0867-transpose-matrix) |
 | [1895-largest-magic-square](https://github.com/RACHEL143143/leet-javapractice.java/tree/master/1895-largest-magic-square) |
 ## Trie
